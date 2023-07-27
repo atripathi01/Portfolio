@@ -1,0 +1,137 @@
+{
+  "name": "Ayush",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Ayush Tripathi",
+  "headerTaglineThree": "Frontend Developer & Designer",
+  "headerTaglineFour": " based in Bangalore, India.",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/atripathi01" },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/ayush-tripathi-1341651b6/"
+    },
+    { "id": "3", "title": "Twitter", "link": "https://twitter.com/ayush___07" },
+    {
+      "id": "4",
+      "title": "Email",
+      "link": "mailto:ayushtripathi5014@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Learning Management System",
+      "description": "A Learning Management System (LMS) is a software application designed to facilitate and manage the administration, delivery, tracking, and reporting of educational courses and training programs.",
+      "imageSrc": "images/lms.jpg",
+      "url": ""
+    },
+    {
+      "id": "1",
+      "title": "Online Code Compiler",
+      "description": "Online Code Compiler where we can compiler the Java/C/C++ codes.",
+      "imageSrc": "images/onlineCompiler.jpg",
+      "url": ""
+    }
+  ],
+  "services": [
+    {
+        "id": "1",
+        "title": "Art Direction",
+        "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+      },
+      {
+        "id": "2",
+        "title": "Branding",
+        "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      },
+      {
+        "id": "3",
+        "title": "Web Design",
+        "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      }
+  ],
+  "skills":{
+    "webdeveloper":[
+      "Reactjs",
+      "Typescript",
+      "Nextjs",
+      "Javascript",
+      "CSS",
+      "MaterialUI",
+      "Tailwind CSS"
+
+    ],
+    "toolNPlatform":[
+      "Git",
+      "GitHub",
+      "AWS Amplify",
+      "Vercel",
+      "Firebase",
+      "Figma"
+    ]
+  },
+  "experiences":[
+    {
+        "id": "1",
+        "cityAndRole":"Bangalore, Frontend Engineer",
+        "workingMonth":"March 2023 - Present",
+        "company": "Qwikskills",
+        "description": "Working closely with the co-founder and building many new pages and core features on Reactjs and Material UI.Build Landing Pages of Qwikskills as per Figma Design on Nextjs and integrate APIs."
+      },
+      {
+        "id": "2",
+        "cityAndRole":"Remote, Frontend Engineer",
+        "workingMonth":"March 2022 - April 2023",
+        "company": "Wrki.ai",
+        "description": "Built the whole web app from scratch with Reactjs and Typescript. Built a Component Library with a Design System in place with Stitches that Helped with building new pages for the app in no time. Reintegrated the whole APIs from AWS Amplify to Django Backend. Redesigned the web app and landing page UI as per Figma Design on Next js and Typescript"
+      },
+      {
+        "id": "3",
+        "cityAndRole":"Remote, Frontend Engineer Intern",
+        "workingMonth":"Feb 2022 - April 2022",
+        "company": "Dono Consulting",
+        "description": "Built the whole web app from scratch with Reactjs. Built a whole web app UI as per the app flow. Built landing pages on Reactjs and integrated apis to make dynamic content ."
+      },
+      {
+        "id": "4",
+        "cityAndRole":"Remote, Frontend Engineer Intern",
+        "workingMonth":"Oct 2021 - Feb 2022",
+        "company": "Listiee",
+        "description": "Worked closely with the founder and implemented many core features on web-app on Reactjs, MaterialUI and Tailwind css. Redesigned the landing page as per design on Reactjs."
+      }
+  ],
+  "aboutpara": "Hello there! I'm Ayush Tripathi, a passionate frontend developer with a keen eye for design and a love for crafting delightful user experiences. One of my primary motivations is creating digital products that users love. I believe that the best user experiences are born when design and functionality work harmoniously, and that is what I strive to achieve in every project. I believe in the power of technology to bring positive change, and I'm driven by the desire to create web interfaces that leave a lasting impression on users. Technology is constantly evolving, and I am a strong advocate of lifelong learning. I stay updated with the latest frontend trends, tools, and best practices to keep my skills sharp.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
