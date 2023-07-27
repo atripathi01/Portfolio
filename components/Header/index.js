@@ -148,7 +148,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button onClick={() => window.open("mailto:ayushtripathi5014@gmail.com")}>
               Contact
             </Button>
-             <Button onClick={() => window.open('https://drive.google.com/file/d/1pQt-dfCaAL53Y1DFj_luyu6zAkFVi9Mr/view?usp=drive_link','_blank')}>
+             <Button onClick={() => window.open('https://drive.google.com/file/d/1363nbZ25PRgtKddzczJlt7nOMHXZcE0e/view?usp=sharing','_blank')}>
               Resume
             </Button>
 
@@ -181,7 +181,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button onClick={() => window.open("mailto:ayushtripathi5014@gmail.com")}>
               Contact
             </Button>
-            <Button onClick={() => window.open('https://drive.google.com/file/d/1pQt-dfCaAL53Y1DFj_luyu6zAkFVi9Mr/view?usp=drive_link','_blank')}>
+            <Button onClick={() => window.open('https://drive.google.com/file/d/1363nbZ25PRgtKddzczJlt7nOMHXZcE0e/view?usp=sharing','_blank')}>
               Resume
             </Button>
 
