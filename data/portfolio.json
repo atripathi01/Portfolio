@@ -28,7 +28,7 @@
       "title": "Learning Management System",
       "description": "A Learning Management System (LMS) is a software application designed to facilitate and manage the administration, delivery, tracking, and reporting of educational courses and training programs.",
       "imageSrc": "images/lms.jpg",
-      "url": ""
+      "url": "https://lms-project-beta.vercel.app/"
     },
     {
       "id": "1",
