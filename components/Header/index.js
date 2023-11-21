@@ -71,18 +71,13 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 <div className="grid grid-cols-1">
                   <Button onClick={handleWorkScroll}>Work</Button>
                   <Button onClick={handleAboutScroll}>About</Button>
-                  {/* {showBlog && (
-                    <Button onClick={() => router.push("/blog")}>Blog</Button>
-                  )}
-                  {showResume && (
+                
                     <Button
-                      onClick={() =>
-                        window.open("mailto:ayushtripathi5014@gmail.com")
-                      }
+                     onClick={() => window.open('https://drive.google.com/file/d/1rgXD1yK5Ewb2Fz-wbxOLINNvj0t03hLI/view?usp=sharing','_blank')}
                     >
                       Resume
                     </Button>
-                  )} */}
+                  
 
                   <Button
                     onClick={() => window.open("mailto:ayushtripathi5014@gmail.com")}
@@ -95,17 +90,14 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   <Button onClick={() => router.push("/")} classes="first:ml-1">
                     Home
                   </Button>
-                  {/* {showBlog && (
-                    <Button onClick={() => router.push("/blog")}>Blog</Button>
-                  )}
-                  {showResume && (
+                
                     <Button
-                      onClick={() => router.push("/resume")}
+                      onClick={() => window.open('https://drive.google.com/file/d/1rgXD1yK5Ewb2Fz-wbxOLINNvj0t03hLI/view?usp=sharing','_blank')}
                       classes="first:ml-1"
                     >
                       Resume
                     </Button>
-                  )} */}
+                
 
                   <Button
                     onClick={() => window.open("mailto:ayushtripathi5014@gmail.com")}
@@ -148,7 +140,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button onClick={() => window.open("mailto:ayushtripathi5014@gmail.com")}>
               Contact
             </Button>
-             <Button onClick={() => window.open('https://drive.google.com/file/d/1363nbZ25PRgtKddzczJlt7nOMHXZcE0e/view?usp=sharing','_blank')}>
+             <Button onClick={() => window.open('https://drive.google.com/file/d/1rgXD1yK5Ewb2Fz-wbxOLINNvj0t03hLI/view?usp=sharing','_blank')}>
               Resume
             </Button>
 
@@ -181,7 +173,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button onClick={() => window.open("mailto:ayushtripathi5014@gmail.com")}>
               Contact
             </Button>
-            <Button onClick={() => window.open('https://drive.google.com/file/d/1363nbZ25PRgtKddzczJlt7nOMHXZcE0e/view?usp=sharing','_blank')}>
+            <Button onClick={() => window.open('https://drive.google.com/file/d/1rgXD1yK5Ewb2Fz-wbxOLINNvj0t03hLI/view?usp=sharing','_blank')}>
               Resume
             </Button>
 
