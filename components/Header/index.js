@@ -73,7 +73,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   <Button onClick={handleAboutScroll}>About</Button>
                 
                     <Button
-                     onClick={() => window.open('https://drive.google.com/file/d/1rgXD1yK5Ewb2Fz-wbxOLINNvj0t03hLI/view?usp=sharing','_blank')}
+                     onClick={() => window.open('https://drive.google.com/file/d/1nRG-SyLC-j2WVc4fQGFjhZ1U1sleyi37/view?usp=sharing','_blank')}
                     >
                       Resume
                     </Button>
@@ -92,7 +92,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   </Button>
                 
                     <Button
-                      onClick={() => window.open('https://drive.google.com/file/d/1rgXD1yK5Ewb2Fz-wbxOLINNvj0t03hLI/view?usp=sharing','_blank')}
+                      onClick={() => window.open('https://drive.google.com/file/d/1nRG-SyLC-j2WVc4fQGFjhZ1U1sleyi37/view?usp=sharing','_blank')}
                       classes="first:ml-1"
                     >
                       Resume
@@ -140,7 +140,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button onClick={() => window.open("mailto:ayushtripathi5014@gmail.com")}>
               Contact
             </Button>
-             <Button onClick={() => window.open('https://drive.google.com/file/d/1rgXD1yK5Ewb2Fz-wbxOLINNvj0t03hLI/view?usp=sharing','_blank')}>
+             <Button onClick={() => window.open('https://drive.google.com/file/d/1nRG-SyLC-j2WVc4fQGFjhZ1U1sleyi37/view?usp=sharing','_blank')}>
               Resume
             </Button>
 
@@ -173,7 +173,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button onClick={() => window.open("mailto:ayushtripathi5014@gmail.com")}>
               Contact
             </Button>
-            <Button onClick={() => window.open('https://drive.google.com/file/d/1rgXD1yK5Ewb2Fz-wbxOLINNvj0t03hLI/view?usp=sharing','_blank')}>
+            <Button onClick={() => window.open('https://drive.google.com/file/d/1nRG-SyLC-j2WVc4fQGFjhZ1U1sleyi37/view?usp=sharing','_blank')}>
               Resume
             </Button>
 
