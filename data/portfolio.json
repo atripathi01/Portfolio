@@ -28,14 +28,28 @@
       "title": "Learning Management System",
       "description": "A Learning Management System (LMS) is a software application designed to facilitate and manage the administration, delivery, tracking, and reporting of educational courses and training programs.",
       "imageSrc": "images/lms.jpg",
-      "url": "https://lms-project-beta.vercel.app/"
+      "url": "https://next-lms-v3.vercel.app/"
     },
     {
-      "id": "1",
-      "title": "Online Code Compiler",
-      "description": "Online Code Compiler where we can compiler the Java/C/C++ codes.",
-      "imageSrc": "images/onlineCompiler.jpg",
-      "url": ""
+      "id": "2",
+      "title": "Typeform Clone",
+      "description": "Typeform clone to help you create a form for your user to fill in the details of your",
+      "imageSrc": "images/typeformclone.jpg",
+      "url": "https://typeform-clone-seven.vercel.app/"
+    },
+    {
+      "id": "3",
+      "title": "Trading & Polutation Graph",
+      "description": "Polution Graph for the usr and the butcoin currency current position",
+      "imageSrc": "images/tradingGraph.jpg",
+      "url": "https://carboncell-nine.vercel.app/"
+    },
+    {
+      "id": "4",
+      "title": "Unsplase Image Gallery",
+      "description": "Polution Graph for the usr and the butcoin currency current position",
+      "imageSrc": "images/unsplashgallary.jpg",
+      "url": "https://unsplash-images-sepia.vercel.app/"
     }
   ],
   "services": [
@@ -78,8 +92,8 @@
   "experiences":[
     {
         "id": "1",
-        "cityAndRole":"Bangalore, Frontend Engineer",
-        "workingMonth":"March 2023 - Present",
+        "cityAndRole":"Bangalore, SDE Frontend ",
+        "workingMonth":"March 2023 - February 2024",
         "company": "Qwikskills",
         "description": "Working closely with the co-founder and building many new pages and core features on Reactjs and Material UI.Build Landing Pages of Qwikskills as per Figma Design on Nextjs and integrate APIs."
       },

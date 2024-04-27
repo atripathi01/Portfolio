@@ -51,7 +51,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className={`relative ${data.showCursor && "cursor-none"}`}>
+    <div className={`relative `}>
       {data.showCursor && <Cursor />}
       <Head>
         <title>{data.name}</title>
@@ -95,6 +95,7 @@ export default function Home() {
 
           <Socials className="mt-2 laptop:mt-5" />
         </div>
+       
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
           <h1 className="text-2xl text-bold">Work.</h1>
 
