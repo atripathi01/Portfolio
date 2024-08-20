@@ -3,10 +3,10 @@
 @tailwind components;
 @tailwind utilities;
 @import "./markdown.css";
-/* 
-* {
+
+*{
   font-family: "Hind";
-} */
+} 
 @font-face {
     font-family: 'Absans';
     src: url('../fonts/Absans/desktop/Absans-Regular.otf') format("opentype");
@@ -20,10 +20,7 @@
     src: url('../fonts/Vegawanty/Vegawanty.ttf') format('truetype');
     }
     
-  *{
-    font-family:Absans !important;
-    font-size: large;
-  }
+
   
 
 body {
