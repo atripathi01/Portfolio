@@ -2,8 +2,8 @@
   "name": "Ayush",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Ayush Tripathi",
-  "headerTaglineThree": "Frontend Developer & Designer",
-  "headerTaglineFour": " based in Bangalore, India.",
+  "headerTaglineThree": "a Software developer",
+  "headerTaglineFour": "Designing the Future of Web Experiences with Precision and Innovation.",
   "showCursor": true,
   "showBlog": false,
   "darkMode": true,
@@ -26,7 +26,7 @@
     {
       "id": "1",
       "title": "Learning Management System",
-      "description": "A Learning Management System (LMS) is a software application designed to facilitate and manage the administration, delivery, tracking, and reporting of educational courses and training programs.",
+      "description": "A Learning Management System (LMS) is a software application designed to facilitate and manage the administration, delivery, tracking, and reporting of educational courses and training programs",
       "imageSrc": "images/lms.jpg",
       "url": "https://next-lms-v3.vercel.app/"
     },
@@ -75,6 +75,11 @@
       "Typescript",
       "Nextjs",
       "Javascript",
+      "Nodejs",
+      "Expressjs",
+      "MongoDB",
+      "GraphQL",
+      "Django",
       "CSS",
       "MaterialUI",
       "Tailwind CSS"
@@ -92,31 +97,38 @@
   "experiences":[
     {
         "id": "1",
+        "cityAndRole":"Bangalore, SDE",
+        "workingMonth":"July 2024 - Present",
+        "company": "Scimplify",
+        "description": "Led the development of product and manufacturing pages from scratch, integrating backend functionalities with Figma designs to elevate user experience. Enhanced code quality and performance by creating global components for maintainability. Collaborated with leadership to build a comprehensive end-to-end dashboard, solving critical business challenges. Spearheaded the implementation of a product CMS from scratch in Next.js."
+      },
+    {
+        "id": "2",
         "cityAndRole":"Bangalore, SDE Frontend ",
         "workingMonth":"March 2023 - February 2024",
         "company": "Qwikskills",
-        "description": "Working closely with the co-founder and building many new pages and core features on Reactjs and Material UI.Build Landing Pages of Qwikskills as per Figma Design on Nextjs and integrate APIs."
-      },
-      {
-        "id": "2",
-        "cityAndRole":"Remote, Frontend Engineer",
-        "workingMonth":"March 2022 - April 2023",
-        "company": "Wrki.ai",
-        "description": "Built the whole web app from scratch with Reactjs and Typescript. Built a Component Library with a Design System in place with Stitches that Helped with building new pages for the app in no time. Reintegrated the whole APIs from AWS Amplify to Django Backend. Redesigned the web app and landing page UI as per Figma Design on Next js and Typescript"
+        "description": "Took full ownership of developing and optimizing key features, including training pages, a cutting-edge Training CMS, and a seamless Payment Page with Razorpay/Stripe integration. Achieved an 80% reduction in content update time, slashed build time by over 60%, and enhanced performance by streamlining code and implementing lazy loading and caching strategies. These optimizations resulted in a significantly faster and more engaging user experience."
       },
       {
         "id": "3",
-        "cityAndRole":"Remote, Frontend Engineer Intern",
-        "workingMonth":"Feb 2022 - April 2022",
-        "company": "Dono Consulting",
-        "description": "Built the whole web app from scratch with Reactjs. Built a whole web app UI as per the app flow. Built landing pages on Reactjs and integrated apis to make dynamic content ."
+        "cityAndRole":"Remote, Frontend Engineer",
+        "workingMonth":"March 2022 - April 2023",
+        "company": "Wrki.ai",
+        "description": "Enhanced user experience with dynamic animations and micro-interactions, while delivering production-ready pages that seamlessly integrated with backend systems, reducing workload by 70%. Took full ownership of managing dashboards and 360 feedback systems, translating Figma designs into robust code. Revamped landing pages using Stitches, aligning with design standards for faster development. Accelerated client onboarding by 50% through a strategic migration from AWS Amplify to Django APIs, revolutionizing process efficiency."
       },
       {
         "id": "4",
         "cityAndRole":"Remote, Frontend Engineer Intern",
+        "workingMonth":"Feb 2022 - April 2022",
+        "company": "Dono Consulting",
+        "description": "Led the end-to-end development of a full-stack product from scratch using React JS and Node JS, ensuring seamless user experiences. Architected global components that streamlined page development, enhancing code quality and accelerating delivery."
+      },
+      {
+        "id": "5",
+        "cityAndRole":"Remote, Frontend Engineer Intern",
         "workingMonth":"Oct 2021 - Feb 2022",
         "company": "Listiee",
-        "description": "Worked closely with the founder and implemented many core features on web-app on Reactjs, MaterialUI and Tailwind css. Redesigned the landing page as per design on Reactjs."
+        "description": "Collaborated directly with the founder to integrate key features like social login, draft lists, and bookmarking, while revamping and enhancing the landing page. Improved existing functionalities, resolved issues, and optimized the codebase to boost overall product performance."
       }
   ],
   "aboutpara": "Hello there! I'm Ayush Tripathi, a passionate frontend developer with a keen eye for design and a love for crafting delightful user experiences. One of my primary motivations is creating digital products that users love. I believe that the best user experiences are born when design and functionality work harmoniously, and that is what I strive to achieve in every project. I believe in the power of technology to bring positive change, and I'm driven by the desire to create web interfaces that leave a lasting impression on users. Technology is constantly evolving, and I am a strong advocate of lifelong learning. I stay updated with the latest frontend trends, tools, and best practices to keep my skills sharp.",

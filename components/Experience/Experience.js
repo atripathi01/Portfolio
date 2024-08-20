@@ -21,14 +21,14 @@ const ExperienceCard = ({
     >
       <h1 className="text-3xl">{company ? company : "Heading"}</h1>
       <div className="flex justify-between">
-        <h3 className="text-xl  opacity-60 ">
+        <h3 className="text-lg  opacity-60 ">
           <i>{cityAndRole ? cityAndRole : "Location, Role"}</i>
         </h3>
         <p>{workingMonth ? workingMonth : "Working Time"}</p>
       </div>
 
       <p className="mt-2 opacity-40 text-l"></p>
-      <p className="mt-5 opacity-40 text-xl">
+      <p className="mt-5 opacity-40 ">
         {description
           ? description
           : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "}

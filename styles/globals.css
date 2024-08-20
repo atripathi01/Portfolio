@@ -3,10 +3,28 @@
 @tailwind components;
 @tailwind utilities;
 @import "./markdown.css";
-
+/* 
 * {
   font-family: "Hind";
-}
+} */
+@font-face {
+    font-family: 'Absans';
+    src: url('../fonts/Absans/desktop/Absans-Regular.otf') format("opentype");
+    }
+  @font-face {
+    font-family: 'Mabry Pro';
+    src: url('../fonts/MabryPro/MabryPro-Black.ttf') format('truetype');
+    }
+  @font-face {
+    font-family: 'Vehawanty';
+    src: url('../fonts/Vegawanty/Vegawanty.ttf') format('truetype');
+    }
+    
+  *{
+    font-family:Absans !important;
+    font-size: large;
+  }
+  
 
 body {
   @apply dark:bg-black dark:text-white;

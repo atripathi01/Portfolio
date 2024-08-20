@@ -73,7 +73,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   <Button onClick={handleAboutScroll}>About</Button>
                 
                     <Button
-                     onClick={() => window.open('https://drive.google.com/file/d/1dD4CkF6d_g1y5Vc2Has-381XSGHqCzoa/view?usp=drive_link','_blank')}
+                     onClick={() => window.open('https://drive.google.com/file/d/19uyJzF83nBaaKnfeeDedAM8wQ2PbTq5E/view?usp=sharing','_blank')}
                     >
                       Resume
                     </Button>
@@ -92,7 +92,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   </Button>
                 
                     <Button
-                      onClick={() => window.open('https://drive.google.com/file/d/1dD4CkF6d_g1y5Vc2Has-381XSGHqCzoa/view?usp=drive_link','_blank')}
+                      onClick={() => window.open('https://drive.google.com/file/d/19uyJzF83nBaaKnfeeDedAM8wQ2PbTq5E/view?usp=sharing','_blank')}
                       classes="first:ml-1"
                     >
                       Resume
@@ -140,7 +140,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button onClick={() => window.open("mailto:ayushtripathi5014@gmail.com")}>
               Contact
             </Button>
-             <Button onClick={() => window.open('https://drive.google.com/file/d/1dD4CkF6d_g1y5Vc2Has-381XSGHqCzoa/view?usp=drive_link','_blank')}>
+             <Button onClick={() => window.open('https://drive.google.com/file/d/19uyJzF83nBaaKnfeeDedAM8wQ2PbTq5E/view?usp=sharing','_blank')}>
               Resume
             </Button>
 
@@ -173,7 +173,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button onClick={() => window.open("mailto:ayushtripathi5014@gmail.com")}>
               Contact
             </Button>
-            <Button onClick={() => window.open('https://drive.google.com/file/d/1dD4CkF6d_g1y5Vc2Has-381XSGHqCzoa/view?usp=drive_link','_blank')}>
+            <Button onClick={() => window.open('https://drive.google.com/file/d/19uyJzF83nBaaKnfeeDedAM8wQ2PbTq5E/view?usp=sharing','_blank')}>
               Resume
             </Button>
 

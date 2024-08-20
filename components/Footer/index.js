@@ -66,11 +66,11 @@ const Footer = ({}) => {
         <div>
           <h1 className='text-2xl text-bold'>Contact.</h1>
           <div className='mt-10'>
-            <h1 className='text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold'>
-              LET&apos;S WORK
+            <h1 className='text-2xl tablet:text-5xl laptop:text-5xl laptopl:text-6xl text-bold'>
+              I&apos;m Just a Message Away  
             </h1>
-            <h1 className='text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold'>
-              TOGETHER
+            <h1 className='text-lg tablet:text-3xl laptop:text-3xl laptopl:text-3xl text-bold'>
+            Let&apos;s Start a Conversation
             </h1>
             <Button onClick={handleOpen} type='primary'>
               Schedule a call
